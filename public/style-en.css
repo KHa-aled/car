@@ -1,0 +1,183 @@
+body{direction:ltr!important;}
+nav{    float: left;
+    margin-left: 139px;
+    direction: ltr;}
+	
+	
+	.navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 18px;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.multi_step_form #msform #progressbar li{
+    list-style-type: none;
+    color: #99a2a8;
+    font-weight: bold;
+    width: calc(100%/3);
+    float: left;
+    position: relative;}
+	.multi_step_form #msform #progressbar li:after {
+    content: '';
+    width: 100%;
+    height: 4px;
+    background: #eaf0f4;
+    position: absolute;
+    left: -50%;
+    top: 21px;
+    z-index: -1;
+}
+.text-right {
+    text-align: left!important;
+}
+.text-left {
+    text-align: right!important;
+}
+
+.login-page-content .login-form h3:before {
+    content: "";
+    position: absolute;
+    bottom: -25px;
+    left: 0;
+    width: 50px;
+    height: 4px;
+    background: #feb005;
+}
+.login-page-content .login-form label {
+    float: left;
+    font-weight: bold;
+}
+
+.CAR-Ordering h5 {
+    direction: ltr;
+    position: relative;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.CAR-Ordering h5:before {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 50px;
+    height: 4px;
+    background: #feb005;
+}
+
+.custom-checkbox, .custom-radio {
+    display: block;
+    margin: 5px 0;
+    text-align: left;
+}
+.CAR-INFO p span {
+    float: left;
+    font-weight: normal;
+    padding: 0 10px 0 40px;
+}
+
+.m-auto {
+ 
+    margin: auto!important;
+}
+.Fillter h4 {
+    text-align: left;
+    margin-top: 20px;
+}
+.Fillter label {
+    text-align: left;
+    margin-top: 20px;
+    font-weight: bold;
+    float: left;
+}
+.mb-3, .my-3 {
+    text-align: left;
+    margin-bottom: 1rem!important;
+}
+.Info .info button {
+    width: 80%;
+    float: left;
+    background: #feb005;
+    color: #fff;
+}
+.subscripe h4,.subscripe p,.subscripe form{text-align:left;}
+.Subscription .subscripe input {
+    background-color: #fff;
+    border: 1px solid #feb005;
+    border-radius: 5px;
+    text-align: left;
+    color: #feb005;
+    padding: 8px 15px;
+    width: 80%;
+}
+.Info2 {
+    direction: rtl;
+   
+}
+.info h3 ,.info p{
+    text-align: left;
+   }
+   .custom-checkbox, .custom-radio {
+    float: left;
+    display: block;
+    margin: 5px 0;
+    text-align: left;
+}
+table {text-align:left;}
+
+.Info-Tabs .card-header button {
+    padding: 10px 0;
+    text-align: left;
+    color: #333;
+    font-weight: bold;
+    position: relative;
+}
+
+.Info-Tabs .card-header button:after {
+    content: "\f106";
+    position: absolute;
+    top: 14px;
+	display:none;
+    right: 10px;
+    color: #feb005;
+    font: normal normal normal 20px/1 FontAwesome;
+    transition: all 0.5s ease-in-out;
+}
+.Info-Tabs .card-body h5 {
+    color: #feb005;
+    text-align: left;
+    font-size: 1.1rem;
+}
+
+.Home-banner {
+    direction: rtl;
+    background-image: url(assets/img/Banner1.jpg);
+    background-position: left;
+    background-size: cover;
+    height: 100vh;
+    margin-top: -110px;
+    padding: 20px;
+}
+.Home-banner .boxing {
+    margin-right: 0;
+    direction: ltr;
+}
+.Home-banner .boxing p ,.Home-banner .boxing h4,.Home-banner .boxing h6{
+  
+    text-align: left;
+}
+.Info-Tabs .card-body p  {
+  
+    text-align: left;
+   
+}
+label {
+    float: left;
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+.carInfo p{text-align:left;float:left;}

@@ -1,0 +1,1 @@
+[11-Mar-2019 22:05:57 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/unsthrbi3r6i/public_html/car/app/Http/Controllers/CarController.php on line 487

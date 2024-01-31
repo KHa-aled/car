@@ -1,0 +1,55 @@
+<?php
+return [
+
+'login'=>'تسجيل الدخول ',
+'logout'=>'تسجيل الخروج',
+'Home'=>'الرئيسية',
+'Search'=>'البحث',
+'Reservasion'=>'حجوزاتي',
+'contact us'=>'تواصل معنا',
+'About'=>' عن الموقع',
+'Make your own journey'=>' اصنع رحلتك بنفسك',
+'Rent a car wherever you want'=>'استأجر سيارة للنقل اينما تريد',
+'Receiving information'=>'معلومات الاستلام',
+'Address Write'=>' العنوان كتابة',
+'Select your location'=>'حدد موقعك',
+'Date'=>'التاريخ',
+'Time'=>'الوقت',
+'Return the car to the same place'=>'اعادة السيارة لنفس المكان المستلم منه',
+'Delivery Information'=>'معلومات التسليم',
+'Additional information is optional'=>'معلومات اضافية اختيارية',
+'Providing a driver for the car'=>'توفير سائق للسيارة',
+'Connect the car to your place'=>'توصيل السيارة لمكانك',
+'Please advance payment'=>'يرجى الدفع مسبقاً',
+'Search the Car'=>' ابحث عن المركبة',
+'Lorem'=>'هنالك العديد من الأنواع المتوفرة لنصوص لوريم إيبسوم، ولكن الغالبية تم تعديلها بشكل ما عبر إدخال',
+'Search for sites'=>'البحث عن المواقع',
+'Easy to pay'=>'سهولة الدفع',
+'Available'=>'متاح',
+'Advanced Search'=>'Advanced Search',
+'Classifications'=>'التصنيفات',
+'Application Download Now'=>'حمل التطبيق الآن',
+'Share the newsletter'=>'مشاركة النشرة البريدية',
+'Email'=>'البريد الالكتروني',
+'Search Filter'=>'فلتر البحث',
+'Name Company'=>'اسم الشركة',
+'mark'=>'الماركة',
+'model'=>'موديل',
+'contact-us'=>'تواصل معنا ',
+'contact-us-type'=>'هنالك العديد من الأنواع المتوفرة لنصوص لوريم إيبسوم، ولكن الغالبية تم تعديلها بشكل ما عبر إدخال بعض النوادر أو الكلمات العشوائية إلى النص.',
+'contact-us-email'=>'البريد الالكتروني',
+'contact-us-subject'=>'عنوان الرساله ',
+'contact-us-fullname'=>'الاسم كاملا ',
+'contact-us-massage'=>'الموضوع',
+'contact-us-send'=>'ارسال',
+'login-register'=>'تسجيل الدخول ',
+'login-register-email'=>'البريد الالكتروني',
+'login-register-password'=>'كلمه المرور'
+,'aboutus-driver'=>'سائق',
+'aboutus-title'=> 'هنالك العديد من الأنواع المتوفرة لنصوص لوريم إيبسوم',
+'aboutus-body'=> ' لوريم إيبسوم، ولكن الغالبية تم تعديلها بشكل ما عبر إدخال بعض النوادر أو الكلمات العشوائية إلى النص. إن كنت تريد أن تستخدم نص لوريم إيبسوم ما، عليك أن تتحقق أولاً أن ليس هناك أي كلمات أو عبارات محرجة أو غير لائقة مخبأة في هذا النص. بينما تعمل جميع مولّدات نصوص لوريم إيبسوم على 
+لإنترنت
+'
+
+
+];
